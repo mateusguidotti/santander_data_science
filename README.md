@@ -3,9 +3,11 @@
 
 <br/>
 
-## <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/fdf7eb28-b0f5-48b0-a414-b432e56eafaa" /> Versionamento de código com Git e GitHub
+## <div style="display:flex; align-items:center; gap:10px;">
+<img width="50" height="50" src="https://github.com/user-attachments/assets/fdf7eb28-b0f5-48b0-a414-b432e56eafaa" />
+<span>Versionamento de código com Git e GitHub</span>
+</div>
 
-
-- Comandos Git  ->  [Comandos](/COMANDOS.md)
+- Comandos Git - [Comandos](/COMANDOS.md)
 
 
