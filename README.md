@@ -1,16 +1,8 @@
-# Comandos
+# Bootcamp Santander 2025/2 - Ciência de Dados
 
-### Comandos úteis para trabalhar com branches
+<br/>\
+<br/>
+### Versionamento de código com Git e GitHub
+- Comandos Git  ->  [Comandos](/COMANDOS.md)
 
-<details>
-<summary> Comandos úteis para trabalhar com branches </summary>
 
-|Comando|Descrição|
-|---|---|
-|```git checkout -b [branch]```|"Desloga" da branch atual e cria uma nova branch com o nome [branch]
-|```git checkout [branch]```|Troca para a branch **[branch]**
-|```git branch```| Lista todas as branchs existentes no repositório
-|```git merge [branch]```|Mescla a branch **[branch]** à branch **main**
-|```git branch -d [branch]```|Deleta a branch **[branch]**
-
-</details>
